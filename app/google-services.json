@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "319282564789",
+    "project_id": "bankplastik-dbc8d",
+    "storage_bucket": "bankplastik-dbc8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319282564789:android:94fd5a199081b7d812b8fc",
+        "android_client_info": {
+          "package_name": "com.example.bankplastik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319282564789-s0qtafseldfs8mveg9diekai56fs3oo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_KYg3OMz64yJOVCUnIEJBHzKEE1fwDmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319282564789-s0qtafseldfs8mveg9diekai56fs3oo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319282564789:android:7616bfc6b7588d1812b8fc",
+        "android_client_info": {
+          "package_name": "id.kharisma.studio.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319282564789-s7h960db4cu0hrhdu2codh0434ntd509.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.kharisma.studio.myapplication",
+            "certificate_hash": "ee837a5e039f21911aa2cc7e44b0a9db0983a6db"
+          }
+        },
+        {
+          "client_id": "319282564789-s0qtafseldfs8mveg9diekai56fs3oo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_KYg3OMz64yJOVCUnIEJBHzKEE1fwDmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319282564789-s0qtafseldfs8mveg9diekai56fs3oo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

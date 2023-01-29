@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="deskripsi_bankplastik">Bank Plastik hadir untuk membantu kehidupan masyarakat lebih mudah dalam membuang sampah, karena hanya dengan melalui satu tangan, sampah akan dijemput ditempat anda.</string>
+    <string name="penukaran">Saat ini Bank Plastik hanga melayani penukaran Sampah Plastik berjenis Botol Plastik dengan harga 3.500/kg, namun kedepannya tim developer akan meningkatkan jenis-jenis sampah plastik yang bisa .</string>
+    <string name="tutorialtukar">Cara menukar sampah:</string>
+    <string name="satu">1. Pilih halaman <b>Tukar Sampah</b></string>
+    <string name="dua">2. Masukkan data pada kolom yang sudah disediakan</string>
+    <string name="tiga">3. Klik tombol <b>Tukar</b></string>
+    <string name="empat">4. Pesanan anda telah diproses, kami akan segera menghubungi anda</string>
+
+    <string-array name="kategori_sampah">
+        <item>Plastik</item>
+        <item>Logam</item>
+        <item>Kertas</item>
+        <item>Karet</item>
+    </string-array>
+    <string-array name="harga_perkilo">
+        <item>1500</item>
+        <item>3000</item>
+        <item>800</item>
+        <item>1000</item>
+    </string-array>
+</resources>
